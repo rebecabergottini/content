@@ -208,7 +208,7 @@ class MyComponent{
 
 Como una **Función**     
 
-Las propiedades se reciben como la primer parámetro de la función:
+Las propiedades se reciben como primer parámetro de la función:
  
 <br><br>`function MyComponent(props){`<br> &nbsp;  &nbsp; &nbsp; &nbsp; `return Hello {props.name};` <br> `}`     
 
